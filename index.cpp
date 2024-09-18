@@ -87,8 +87,8 @@ int main() {
     }
 
     // perform all pass filters(in series)
-    std::vector<float> allPassSamples1 = allPassFilter(parallelCombFilterSamples, 0.6f, 3000, N);
-    std::vector<float> allPassSamples2 = allPassFilter(allPassSamples1, 0.6f, 3000, N);
+    std::vector<float> allPassSamples1 = allPassFilter(parallelCombFilterSamples, 0.136f, 900, N);
+    std::vector<float> allPassSamples2 = allPassFilter(allPassSamples1, 0.136f, 900, N);
 
     // NORMALIZE DATA (don't want amplitudes to exceed 1 or -1)
         // a. find the max amplitude
