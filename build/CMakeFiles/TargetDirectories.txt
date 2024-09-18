@@ -1,0 +1,3 @@
+/Users/joeypeterson/Desktop/sawtooth_with_basic_reverb/build/CMakeFiles/sawtooth_with_basic_reverb.dir
+/Users/joeypeterson/Desktop/sawtooth_with_basic_reverb/build/CMakeFiles/edit_cache.dir
+/Users/joeypeterson/Desktop/sawtooth_with_basic_reverb/build/CMakeFiles/rebuild_cache.dir
